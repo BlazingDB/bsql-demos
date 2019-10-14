@@ -5,7 +5,7 @@ set -eu
 RAPIDS_VERSION="${1:-0.10}"
 XGBOOST_VERSION="${2:-1.0.0_SNAPSHOT}"
 
-wget -nc https://github.com/gumdropsteve/bsql-demos/raw/master/utils/env-check.py
+wget -nc https://github.com/gumdropsteve/bsql-demos/raw/getting_started/utils/env-check.py
 echo "Checking for GPU type:"
 python env-check.py
 
