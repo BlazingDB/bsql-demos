@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
-RAL.1.log
+.log
+.csv
+.parquet
