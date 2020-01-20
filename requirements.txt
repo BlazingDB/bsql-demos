@@ -1,0 +1,3 @@
+cudf >= 0.10
+cuml >= 0.10
+pyblazing >= 0.4.5
