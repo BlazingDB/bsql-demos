@@ -1,0 +1,3 @@
+blazingsql>=0.11
+cudf>=0.11
+cuml>=0.11
